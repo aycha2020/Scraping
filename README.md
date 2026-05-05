@@ -15,4 +15,5 @@ Respect de la conformité (pas de données personnelles, RGPD)
 Automatisation via Docker
 Logs et contrôle de qualité
 
- En résumé : c’est un pipeline complet, automatisé et industriel pour transformer des données immobilières en datasets exploitables pour la BI et le ML.
+ En résumé : c’est un pipeline complet, automatisé et industriel pour transformer des données immobilières en datasets exploitables pour la BI et le ML
+
