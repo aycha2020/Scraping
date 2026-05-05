@@ -1,3 +1,4 @@
-.env 
+.env
 venv
 clean.ipynb
+__pycache__
